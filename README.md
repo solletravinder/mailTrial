@@ -1,2 +1,0 @@
-# mailTrial
-Created with CodeSandbox
